@@ -896,7 +896,14 @@
 895	Regidrago	
 896	Polaross	
 897	Phantoross	
-898	Coronospa	
+898	Coronospa
+899	Damythir	
+900	Axantor	
+901	Ursaluna	
+902	Salmagnis	
+903	Snieboss	
+904	Myriador	
+905	Cupidos	
 906	Felori	
 907	Feliospa	
 908	Maskagato	
