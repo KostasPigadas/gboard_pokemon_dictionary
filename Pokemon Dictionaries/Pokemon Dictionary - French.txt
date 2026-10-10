@@ -100,7 +100,7 @@
 099	Krabboss	
 100	Voltorbe	
 101	Électrode	
-102	Noeunoeuf	
+102	Nœunœuf	
 103	Noadkoko	
 104	Osselait	
 105	Ossatueur	
@@ -202,7 +202,7 @@
 201	Zarbi	
 202	Qulbutoké	
 203	Girafarig	
-204	Pomdepik	
+204	Pomdepic	
 205	Foretress	
 206	Insolourdo	
 207	Scorplane	
@@ -520,7 +520,7 @@
 519	Poichigeon	
 520	Colombeau	
 521	Déflaisan	
-522	Zébribon	
+522	Zébibron	
 523	Zéblitz	
 524	Nodulithe	
 525	Géolithe	
@@ -937,7 +937,7 @@
 936	Carmadura	
 937	Malvalame	
 938	Têtampoule	
-939	Ampibid	
+939	Ampibidou	
 940	Zapétrel	
 941	Fulgulairo	
 942	Grondogue	
@@ -967,7 +967,7 @@
 966	Vrombotor	
 967	Motorizard	
 968	Ferdeter	
-969	Germeclat	
+969	Germéclat	
 970	Floréclat	
 971	Toutombe	
 972	Tomberro	
@@ -1011,7 +1011,7 @@
 1010	Vert-de-Fer	
 1011	Pomdramour	
 1012	Poltchageist	
-1013	Théffroi	
+1013	Théffroyable	
 1014	Félicanis	
 1015	Fortusimia	
 1016	Favianos	
@@ -1023,4 +1023,4 @@
 1022	Roc-de-Fer	
 1023	Chef-de-Fer	
 1024	Terapagos	
-1025	Pêchaminus
+1025	Pêchaminus	

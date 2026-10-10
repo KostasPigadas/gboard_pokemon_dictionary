@@ -617,8 +617,8 @@
 616	Schnuthelm	
 617	Hydragil	
 618	Flunschlik	
-619	Lin-Fu	
-620	Wie-Shu	
+619	Fu	
+620	Shu	
 621	Shardrago	
 622	Golbit	
 623	Golgantes	
@@ -672,7 +672,7 @@
 671	Florges	
 672	Mähikel	
 673	Chevrumm	
-674	Pam-Pam	
+674	Pam	
 675	Pandagro	
 676	Coiffwaff	
 677	Psiau	
@@ -896,7 +896,7 @@
 895	Regidrago	
 896	Polaross	
 897	Phantoross	
-898	Coronospa
+898	Coronospa	
 899	Damythir	
 900	Axantor	
 901	Ursaluna	
@@ -967,7 +967,7 @@
 966	Knattatox	
 967	Mopex	
 968	Schlurm	
-969	Lummeron	
+969	Lumispross	
 970	Lumiflora	
 971	Gruff	
 972	Friedwuff	
@@ -976,7 +976,7 @@
 975	Kolowal	
 976	Agiluza	
 977	Heerashai	
-978	Nigirigon	
+978	Nigiragi	
 979	Epitaff	
 980	Suelord	
 981	Farigiraf	
@@ -1003,7 +1003,7 @@
 1002	Baojian	
 1003	Dinglu	
 1004	Yuyu	
-1005	Furienblitz	
+1005	Donnersichel	
 1006	Eisenkrieger	
 1007	Koraidon	
 1008	Miraidon	
